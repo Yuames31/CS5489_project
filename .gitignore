@@ -1,0 +1,5 @@
+# 模型权重、训练日志
+aigc/runs/
+*.pth
+*.ckpt
+*.bin
